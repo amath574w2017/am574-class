@@ -24,11 +24,12 @@ See also :ref:`toc_condensed`
 
    info
    outline
-   lectures
+   examples
 
 .. toctree::
    :maxdepth: 2
 
+   lectures
    homeworks
    project
    project_topics

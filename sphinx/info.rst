@@ -31,7 +31,7 @@ Canvas page
 -----------
 
 Registered students can view grades and other materials 
-on the Canvas page (to appear).
+on the `Canvas page <https://canvas.uw.edu/courses/1096947>`_.
 
 Grading
 -------
@@ -98,7 +98,7 @@ Topics
 --------
 
 Some of the topics to be covered are listed below.
-See also :ref:`outline`.
+See also :ref:`outline` and :ref:`examples`.
 
 - Mathematical theory of linear and nonlinear systems of hyperbolic 
   PDEs and conservation laws.
