@@ -24,8 +24,8 @@ Class meeting times
 Discussion board
 ----------------
 
-Registered students should be able to access the Piazza discussion board
-(to appear).
+Registered students should be able to access the 
+`Piazza discussion board <http://piazza.com/washington/winter2017/amath574/home>`_.
 
 Canvas page
 -----------
