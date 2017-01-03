@@ -22,6 +22,9 @@ Please watch these lectures in place of in-class lectures on January 4 and 6.
    Riemann problem, vanishing viscosity solutions, Burgers' equation.
    `[slides] <_static/AMath574w17-video2.pdf>`_
 
- - `Video 3 (to appear)  <?>`_:
-   Acoustics equations
+ - `Video 3
+   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8f87f698-e63b-49a6-9616-58ab2c39f807>`_ (25 minutes):
+   Acoustic equations, diagonalizing a linear system, solving the Riemann
+   problem.
+   `[slides] <_static/AMath574w17-video3.pdf>`_
 
