@@ -20,11 +20,13 @@ Schedule (tentative)
 
 - **Week 1:** Overview of course, advection and acoustics equations
 
-  - *For Wednesday, January 4:* Sections 1.0--2.3 of [FVMHP].
-  - *For Friday, January 6:* Sections 2.4-2.13 of [FVMHP].
+  - Chapters 1 and 2 of [FVMHP]_.
+  - See also Chapter 1 and 2 of [ETH]_.
 
 - **Week 2:** 
 
+  - Chapters 3 and 4 of [FVMHP]_. 
+  - See also Chapters 10 and 11 of [ETH]_.
 
 - **Week 3:** 
 

@@ -12,8 +12,11 @@ Instructor
 * `Prof. Randall LeVeque <http://faculty.washington.edu/rjl>`_
 
   * Office: Lewis 328 
+  * Office hours: 
+    Monday 2-3,
+    Wendesday 11-12,
+    Thursday 2:30-3:30
   * netid for email: rjl
-  * Office hours: TBA
 
 
 Class meeting times

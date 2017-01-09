@@ -21,7 +21,7 @@ a required component of the course (see below).
 Schedule (tentative)
 ---------------------
 
-* Homework 1: due Thursday, Jan. 19
+* :ref:`homework1` due Thursday, Jan. 19
 * Homework 2: due Thursday, Jan. 26
 * Homework 3: due Thursday, Feb. 9
 * Midterm: Wednesday, Feb. 15
