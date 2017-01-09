@@ -12,7 +12,7 @@ The homework is due by 11:00pm PDT on January 19, 2017.  You can turn it in
 up to 24 hours late with a 10% reduction in credit.  
 
 The latex file for this homework assignment is in the :ref:`class_repos` in the
-directory `homeworks/hw1.tex`.  You are encouraged to use latex to do the
+directory `homeworks/hw1`.  You are encouraged to use latex to do the
 homework, in which case you might want to start with this file.  There are
 some comments in the file indicating where in add your solutions.
 
