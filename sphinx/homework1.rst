@@ -19,6 +19,17 @@ some comments in the file indicating where in add your solutions.
 If necessary you can hand write and scan parts of it, and scan hand-drawn
 figures.
 
+There is a Jupyter notebook to get you started on Problem 3.2 in the
+class repository on Github, in the file
+`$AM574/notebooks/Riemann_problem_linear_system.ipynb` 
+(see :ref:`class_repos`). 
+
+You can also view this at:
+    
+  - https://github.com/amath574w2017/am574-class/notebooks/Riemann_problem_linear_system.ipynb
+
+  - https://notebooks.azure.com/library/pLLBjDTqA7s
+
 To submit, see the 
 `Canvas page <https://canvas.uw.edu/courses/1096947/assignments/3570043>`_.
 
