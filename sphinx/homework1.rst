@@ -24,9 +24,9 @@ class repository on Github, in the file
 `$AM574/notebooks/Riemann_problem_linear_system.ipynb` 
 (see :ref:`class_repos`). 
 
-You can also view this at:
+You can also view this notebook from:
     
-  - https://github.com/amath574w2017/am574-class/notebooks/Riemann_problem_linear_system.ipynb
+  - https://github.com/amath574w2017/am574-class/tree/master/notebooks
 
   - https://notebooks.azure.com/library/pLLBjDTqA7s
 
