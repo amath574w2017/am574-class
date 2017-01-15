@@ -9,7 +9,7 @@ Python
 Some Python resources
 ---------------------
 
-- `AMath 583 class notes
+- `AMath 583 class notes (from 2014)
   <http://faculty.washington.edu/rjl/classes/am583s2014/notes/index.html#python>`_
 
 - `The Python Tutorial <https://docs.python.org/2/tutorial/>`_
@@ -20,6 +20,17 @@ Some Python resources
 - `Jupyter Notebook documentation
   <http://jupyter.org/>`_
 
+- `NumPy Documentation <http://www.numpy.org/>`_
+
+- `NumPy for Matlab users
+  <https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html>`_
+  Useful list of commands (and Matlab equivalents)
+
+- `Matplotlib Gallery <http://matplotlib.org/gallery.html>`_ 
+  (illustrating how to make various types of plots)
+
+- `SciPy Documentation <http://scipy.org/>`_ includes many other scientific
+  packages.
 
 
 

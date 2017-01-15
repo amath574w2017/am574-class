@@ -28,3 +28,9 @@ Please watch these lectures in place of in-class lectures on January 4 and 6.
    problem.
    `[slides] <_static/AMath574w17-video3.pdf>`_
 
+Tutorials
+---------
+
+ - `Video 4
+   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba7397e7-0b0a-4029-a801-dab1d149bd99>`_ (23 minutes): Introduction to Jupyter notebooks
+

@@ -1,5 +1,4 @@
 
-
 .. _homework1:
 
 =============================================================
@@ -24,11 +23,16 @@ class repository on Github, in the file
 `$AM574/notebooks/Riemann_problem_linear_system.ipynb` 
 (see :ref:`class_repos`). 
 
-You can also view this notebook from:
+You can see a static view of this notebook on Github:
     
   - https://github.com/amath574w2017/am574-class/tree/master/notebooks
 
+Or run the notebook on `Microsoft Azure Notebooks <https://notebooks.azure.com/>`_ (see
+:ref:`notebooks_azure`):
+
   - https://notebooks.azure.com/library/pLLBjDTqA7s
+
+See also the tutorial video on notebooks in :ref:`lectures`.
 
 To submit, see the 
 `Canvas page <https://canvas.uw.edu/courses/1096947/assignments/3570043>`_.
