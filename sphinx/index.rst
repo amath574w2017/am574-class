@@ -25,6 +25,7 @@ See also :ref:`toc_condensed`
    info
    outline
    examples
+   riemann
    notebooks
 
 .. toctree::
