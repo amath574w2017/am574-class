@@ -34,3 +34,9 @@ Tutorials
  - `Video 4
    <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba7397e7-0b0a-4029-a801-dab1d149bd99>`_ (23 minutes): Introduction to Jupyter notebooks
 
+ - `Clawpack: installing from tarfile
+   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=997f1e91-cfc0-48c1-8f98-1a2598158e05>`_ (13 minutes)
+
+ - `Clawpack: setrun.py
+   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90f45209-81ae-41e3-9f48-01668ed0fb8f>`_ (8 minutes)
+
