@@ -1,0 +1,23 @@
+rm -f      /Users/rjl/git/clawpack/classic/src/1d/setaux.o /Users/rjl/git/clawpack/classic/src/1d/bc1.o /Users/rjl/git/clawpack/classic/src/1d/b4step1.o /Users/rjl/git/clawpack/classic/src/1d/driver.o /Users/rjl/git/clawpack/classic/src/1d/claw1ez.o /Users/rjl/git/clawpack/classic/src/1d/claw1.o /Users/rjl/git/clawpack/classic/src/1d/copyq1.o /Users/rjl/git/clawpack/classic/src/1d/inlinelimiter.o /Users/rjl/git/clawpack/classic/src/1d/opendatafile.o /Users/rjl/git/clawpack/classic/src/1d/out1.o /Users/rjl/git/clawpack/classic/src/1d/src1.o /Users/rjl/git/clawpack/classic/src/1d/step1.o qinit.o setprob.o rp1_burgers.o
+rm -f      
+rm -f      
+rm -f  xclaw                         
+/Applications/Xcode.app/Contents/Developer/usr/bin/make xclaw                          MAKELEVEL=0 -f  Makefile /Users/rjl/git/clawpack/classic/src/1d/Makefile.classic_1d /Users/rjl/git/clawpack/clawutil/src/Makefile.common
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/setaux.f90 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/setaux.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/bc1.f 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/bc1.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/b4step1.f90 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/b4step1.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/driver.f90 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/driver.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/claw1ez.f 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/claw1ez.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/claw1.f 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/claw1.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/copyq1.f 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/copyq1.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/inlinelimiter.f90 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/inlinelimiter.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/opendatafile.f 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/opendatafile.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/out1.f 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/out1.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/src1.f90 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/src1.o
+gfortran -c -cpp /Users/rjl/git/clawpack/classic/src/1d/step1.f90 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o /Users/rjl/git/clawpack/classic/src/1d/step1.o
+gfortran -c -cpp qinit.f90 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o qinit.o
+gfortran -c -cpp setprob.f90 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o setprob.o
+gfortran -c -cpp rp1_burgers.f90 					   -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/    -o rp1_burgers.o
+gfortran          /Users/rjl/git/clawpack/classic/src/1d/setaux.o /Users/rjl/git/clawpack/classic/src/1d/bc1.o /Users/rjl/git/clawpack/classic/src/1d/b4step1.o /Users/rjl/git/clawpack/classic/src/1d/driver.o /Users/rjl/git/clawpack/classic/src/1d/claw1ez.o /Users/rjl/git/clawpack/classic/src/1d/claw1.o /Users/rjl/git/clawpack/classic/src/1d/copyq1.o /Users/rjl/git/clawpack/classic/src/1d/inlinelimiter.o /Users/rjl/git/clawpack/classic/src/1d/opendatafile.o /Users/rjl/git/clawpack/classic/src/1d/out1.o /Users/rjl/git/clawpack/classic/src/1d/src1.o /Users/rjl/git/clawpack/classic/src/1d/step1.o qinit.o setprob.o rp1_burgers.o    -L/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/   -o xclaw                         
+make: Nothing to be done for `/Users/rjl/git/clawpack/classic/src/1d/Makefile.classic_1d'.
+make: Nothing to be done for `/Users/rjl/git/clawpack/clawutil/src/Makefile.common'.

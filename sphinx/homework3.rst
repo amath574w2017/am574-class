@@ -24,7 +24,7 @@ See also the videos at :ref:`tutorials`.
 There is also a Jupyter notebook `homeworks/hw3/burgers.ipynb` that you
 might want to modify.  You can view it and the animations it produces
 `here
-<https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/burgers.ipynb>`_.
+<https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/burgers/burgers.ipynb>`_.
 
 
 To submit, see the 

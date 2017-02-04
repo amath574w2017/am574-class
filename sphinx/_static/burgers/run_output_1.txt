@@ -1,0 +1,40 @@
+rm -f .output
+python /Users/rjl/git/clawpack/clawutil/src/python/clawutil/runclaw.py xclaw                          _output_1 \
+	True                    None . False False None
+Reading data file: claw.data   
+         first 5 lines are comments and will be skipped
+ running...
+  
+Reading data file: setprob.data             
+         first 5 lines are comments and will be skipped
+CLAW1EZ: Frame    1 output files done at time t =  0.5000D-01
+
+CLAW1EZ: Frame    2 output files done at time t =  0.1000D+00
+
+CLAW1EZ: Frame    3 output files done at time t =  0.1500D+00
+
+CLAW1EZ: Frame    4 output files done at time t =  0.2000D+00
+
+CLAW1EZ: Frame    5 output files done at time t =  0.2500D+00
+
+CLAW1EZ: Frame    6 output files done at time t =  0.3000D+00
+
+CLAW1EZ: Frame    7 output files done at time t =  0.3500D+00
+
+CLAW1EZ: Frame    8 output files done at time t =  0.4000D+00
+
+CLAW1EZ: Frame    9 output files done at time t =  0.4500D+00
+
+CLAW1EZ: Frame   10 output files done at time t =  0.5000D+00
+
+==> runclaw: Will take data from  /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers
+==> runclaw: Will write output to  /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+==> runclaw: Removing all old fort files in  /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+
+==> Running with command:
+    /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/xclaw
+
+==> runclaw: Finished executing
+
+==> runclaw: Done executing /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/xclaw via clawutil.runclaw.py
+==> runclaw: Output is in  /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1

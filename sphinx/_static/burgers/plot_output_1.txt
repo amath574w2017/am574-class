@@ -1,0 +1,58 @@
+rm -f .plots
+python /Users/rjl/git/clawpack/visclaw/src/python/visclaw/plotclaw.py _output_1 _plots_1 setplot.py           
+/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/setplot.py:49: RuntimeWarning: divide by zero encountered in divide
+  q = x/t  # correct in rarefaction wave
+Importing setplot.setplot from /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers.
+Parameters: q1 = -1, q2 = 2, efix = True
+Parameters: q1 = -1, q2 = 2, efix = True
+Executed setplot successfully
+Will plot 11 frames numbered: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Will make 1 figure(s) for each frame, numbered:  [1]
+
+-----------------------------------
+
+
+Creating html pages for figures...
+
+Directory '/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_plots_1' 
+    already exists, files may be overwritten 
+Now making png files for all figures...
+    Reading  Frame 0 at t = 0  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 0 at time t = 0.0
+    Reading  Frame 1 at t = 0.05  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 1 at time t = 0.05
+    Reading  Frame 2 at t = 0.1  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 2 at time t = 0.1
+    Reading  Frame 3 at t = 0.15  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 3 at time t = 0.15
+    Reading  Frame 4 at t = 0.2  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 4 at time t = 0.2
+    Reading  Frame 5 at t = 0.25  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 5 at time t = 0.25
+    Reading  Frame 6 at t = 0.3  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 6 at time t = 0.3
+    Reading  Frame 7 at t = 0.35  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 7 at time t = 0.35
+    Reading  Frame 8 at t = 0.4  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 8 at time t = 0.4
+    Reading  Frame 9 at t = 0.45  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 9 at time t = 0.45
+    Reading  Frame 10 at t = 0.5  from outdir = /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_output_1
+Frame 10 at time t = 0.5
+
+-----------------------------------
+
+Creating latex file...
+Directory '/Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_plots_1' 
+    already exists, files may be overwritten 
+
+Latex file created:  
+  /Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_plots_1/plots.tex
+
+Use pdflatex to create pdf file
+Created JSAnimation for figure 1
+
+--------------------------------------------------------
+
+Point your browser to:
+    file:///Users/rjl/git/amath574w2017/am574-class/homeworks/hw3/burgers/_plots_1/_PlotIndex.html
