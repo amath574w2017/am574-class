@@ -28,6 +28,8 @@ Please watch these lectures in place of in-class lectures on January 4 and 6.
    problem.
    `[slides] <_static/AMath574w17-video3.pdf>`_
 
+.. _tutorials:
+
 Tutorials
 ---------
 
