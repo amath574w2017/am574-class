@@ -65,7 +65,7 @@ The Microsoft Azure cloud computing platform now supports running notebooks
 in the cloud.  You can sign up for a free account at
 https://notebooks.azure.com/, and then from the page:
 
-  - https://notebooks.azure.com/library/pLLBjDTqA7s
+  - https://notebooks.azure.com/library/M49KECGcvS0
 
 You should find some notebooks for AMath 574.  You can also create your own
 notebooks, or upload ones you already have from your computer, or download
