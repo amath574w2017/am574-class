@@ -18,6 +18,14 @@ Acoustics
    illustrates how the Riemann solution changes as the left
    state :math:`q_\ell` and right state :math:`q_r` are changed.  
 
+Nonconvex Scalar conservation laws
+----------------------------------
+
+ - The notebook `Osher_Solution.ipynb
+   <https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/Osher_Solution.ipynb>`_ 
+   illustrates the Osher solution to scalar Riemann problems, 
+   with nonconvex examples
+
 
 Shallow water equations
 -----------------------

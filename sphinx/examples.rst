@@ -6,8 +6,8 @@ Some examples
 =============================================================
 
 Here are a few examples of solutions to hyperbolic partial differential
-equations.  For some other examples, see the 
-`Clawpack Gallery <http://www.clawpack.org/galleries.html>`_.
+equations.  For some other examples, see :ref:`notebooks`, :ref:`riemann`,
+and the `Clawpack Gallery <http://www.clawpack.org/galleries.html>`_.
 
 .. _examples_advection:
 
