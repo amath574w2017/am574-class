@@ -13,11 +13,22 @@ See
  - The tutorial video on notebooks in :ref:`lectures`.
 
 
-More notebooks will be posted as the quarter goes on...
+Some notebooks available in `$AM574/notebooks`:
 
  - `Riemann_problem_acoustics.ipynb
    <https://nbviewer.jupyter.org/url/depts.washington.edu/clawpack/v5.4.0alpha/_static/notebooks/Riemann_problem_acoustics.ipynb>`_
-   *This is a draft, not yet in Clawpack!*
+   (Now in Clawpack `$CLAW/apps/notebooks/riemann/Riemann_problem_acoustics.ipynb)
+
+ - `Advection_Examples4.ipynb
+   <https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/Advection_Examples4.ipynb>`_ 
+   (Implements upwind and animates solution)
+
+ - `Osher_Solution.ipynb
+   <https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/Osher_Solution.ipynb>`_ 
+   (Osher solution to scalar Riemann problems, with nonconvex examples)
+
+ - `burgers.ipynb <https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/burgers/burgers.ipynb>`_
+   (For Homework 3, illustrating entropy fix)
 
 Running notebooks on your computer
 ----------------------------------
