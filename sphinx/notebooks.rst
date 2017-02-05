@@ -17,7 +17,7 @@ Some notebooks available in `$AM574/notebooks`:
 
  - `Riemann_problem_acoustics.ipynb
    <https://nbviewer.jupyter.org/url/depts.washington.edu/clawpack/v5.4.0alpha/_static/notebooks/Riemann_problem_acoustics.ipynb>`_
-   (Now in Clawpack `$CLAW/apps/notebooks/riemann/Riemann_problem_acoustics.ipynb)
+   (Now in Clawpack, see `$CLAW/apps/notebooks/riemann/Riemann_problem_acoustics.ipynb`)
 
  - `Advection_Examples4.ipynb
    <https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/Advection_Examples4.ipynb>`_ 
@@ -26,6 +26,10 @@ Some notebooks available in `$AM574/notebooks`:
  - `Osher_Solution.ipynb
    <https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/Osher_Solution.ipynb>`_ 
    (Osher solution to scalar Riemann problems, with nonconvex examples)
+
+ - `Conservation_form.ipynb
+   <https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/Conservation_form.ipynb>`_
+   (Animates Figure 12.5 of [FVMHP]_)
 
  - `burgers.ipynb <https://nbviewer.jupyter.org/url/faculty.washington.edu/rjl/classes/am574w2017/_static/burgers/burgers.ipynb>`_
    (For Homework 3, illustrating entropy fix)
