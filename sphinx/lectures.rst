@@ -42,3 +42,6 @@ Tutorials
  - `Clawpack: setrun.py
    <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90f45209-81ae-41e3-9f48-01668ed0fb8f>`_ (8 minutes)
 
+ - `Clawpack: Burgers' equation example
+   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db8e32c8-d10d-4d04-a8c5-52314b0557e7>`_ (37 minutes)
+

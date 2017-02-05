@@ -18,7 +18,8 @@ some comments in the file indicating where in add your solutions.
 If necessary you can hand write and scan parts of it, and scan hand-drawn
 figures.
 
-This video [to appear] gives some tips to get started with the Clawpack code.
+`This video <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db8e32c8-d10d-4d04-a8c5-52314b0557e7>`_
+gives some tips to get started with the Clawpack code.
 See also the videos at :ref:`tutorials`.
 
 There is also a Jupyter notebook `homeworks/hw3/burgers.ipynb` that you
