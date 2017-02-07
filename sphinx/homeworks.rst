@@ -24,7 +24,7 @@ Schedule (tentative)
 * :ref:`homework1` due Thursday, Jan. 19
 * :ref:`homework2` due Thursday, Feb. 2
 * :ref:`homework3` due Thursday, Feb. 9
-* Midterm: Wednesday, Feb. 15
+* :ref:`midterm` on Wednesday, Feb. 15
 * Homework 4: due Thursday, Feb. 23
 * Project presentations: TBA during last week of classes
 * Project paper due: Friday, March 10
@@ -35,7 +35,7 @@ Midterm
 There will be a midterm exam, tentatively scheduled for February 15.  
 The exam will be open book, open notes.  The goal will be to
 insure that you are proficient with some of the theory and algorithms
-presented in the course. 
+presented in the course.   See :ref:`midterm`.
 
 Course Project
 --------------
