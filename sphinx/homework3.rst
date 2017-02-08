@@ -7,7 +7,7 @@ Homework 3
 
 - `hw3.pdf <_static/hw3.pdf>`_
 
-The homework is due by 11:00pm PDT on February 9, 2017.  You can turn it in
+The homework is due by 11:00pm PDT on February 10, 2017.  You can turn it in
 up to 24 hours late with a 10% reduction in credit.  
 
 The latex file for this homework assignment is in the :ref:`class_repos` in the
