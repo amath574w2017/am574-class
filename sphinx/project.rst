@@ -55,7 +55,8 @@ Timeline (tentative)
 - Friday, Feb 10: groups should be formed
 - Friday, Feb 17: 1-page project proposals due
 - Friday, March 3: first draft of papers due
-- TBA: papers due and project presentations
+- Project presentations: Monday, March 13, 10:00am - Noon
+- Project paper due: Tuesday, March 14
 
 
 .. _paper:

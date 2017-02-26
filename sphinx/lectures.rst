@@ -28,6 +28,21 @@ Please watch these lectures in place of in-class lectures on January 4 and 6.
    problem.
    `[slides] <_static/AMath574w17-video3.pdf>`_
 
+.. _27feb2017
+
+Lectures for February 27, 2017
+-------------------------------
+
+ - `Video 5
+   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=751e1a22-fc46-4a31-8ac3-845e369bb5b5>`_ (23 minutes):
+   Euler equations of gas dynamics
+   `[slides] <_static/AMath574w17-video5.pdf>`_
+
+ - `Video 6
+   <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e1986e3-3312-493c-9c4b-18f61a5911dd>`_ (24 minutes):
+   Euler equations - Jupyter notebooks of true and approximate Riemann solutions
+   `[notebooks] <https://github.com/clawpack/riemann_book>`_
+
 .. _tutorials:
 
 Tutorials

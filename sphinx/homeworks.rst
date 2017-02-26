@@ -25,9 +25,10 @@ Schedule (tentative)
 * :ref:`homework2` due Thursday, Feb. 2
 * :ref:`homework3` due Thursday, Feb. 9
 * :ref:`midterm` on Wednesday, Feb. 15
-* Homework 4: due Thursday, Feb. 23
-* Project presentations: TBA during last week of classes
-* Project paper due: Friday, March 10
+* :ref:`homework4` due Monday, Feb. 27
+* See :ref:`projects` for the project timeline
+* Project presentations: Monday, March 13, 10:00am - Noon
+* Project paper due: Tuesday, March 14
 
 Midterm
 -------
@@ -41,10 +42,9 @@ Course Project
 --------------
 
 Students will also work on a project (individually or in groups of 2) and
-will write a report on the project and give a brief talk in a symposium
-(sometime during the last week of classes, TBA).
+will write a report on the project and give a brief talk in a symposium.
 
-.. comment:: See :ref:`projects` for more about the class project and some suggested topics.
+See :ref:`projects` for more about the class project and some suggested topics.
 
 
 .. _hwformat:
